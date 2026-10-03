@@ -115,4 +115,4 @@ The difference between object references and shallow copies.
 
 Tomorrow's First Task
 
-JavaScript Mini project.
+JavaScript Mini project and more obj practice and learning.
