@@ -1,3 +1,5 @@
+// Functions
+
 // Simple function
 // function sayHello() {
 //     console.log("Hello, I am Mustaqeem");
