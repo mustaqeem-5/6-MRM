@@ -1,4 +1,4 @@
-// Functions
+// Day 1 Functions.
 
 // Simple function
 // function sayHello() {
