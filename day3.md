@@ -92,7 +92,6 @@ I studied and practiced the Object and Object methods to solve these problems. F
 GitHub Commit
 
 
-
 What I Could Explain Without Notes
 
 What is a JavaScript Object?
