@@ -1,4 +1,4 @@
-// Functions
+// Day 1 Functions.
 
 // Simple function
 // function sayHello() {
@@ -55,24 +55,24 @@
 // let Mathematics = 70;
 // let NumSub = 3
 
-function Std_Marks() {
-    let total_num = English+Urdu+Mathematics;
-    console.log("Total Number of all Subject",total_num);
-    console.log("Average Number of all Subject",total_num/NumSub,"%");
+// function Std_Marks() {
+//     let total_num = English+Urdu+Mathematics;
+//     console.log("Total Number of all Subject",total_num);
+//     console.log("Average Number of all Subject",total_num/NumSub,"%");
 
-    if (total_num >250) {
-        console.log("Grade = A")
-    }
-    else if(total_num < 250){
-        console.log("Grade = B")
-    }
-    else if(total_num <= 200){
-        console.log("Grade = C")
-    }
-    else{
-        console.log("Fail")
-    }
-}
-Std_Marks()
+//     if (total_num >250) {
+//         console.log("Grade = A")
+//     }
+//     else if(total_num < 250){
+//         console.log("Grade = B")
+//     }
+//     else if(total_num <= 200){
+//         console.log("Grade = C")
+//     }
+//     else{
+//         console.log("Fail")
+//     }
+// }
+// Std_Marks()
 
 

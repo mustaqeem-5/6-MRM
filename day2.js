@@ -160,13 +160,13 @@
 //     }
 // }
 
-Grade of all std
-students.forEach(function(student) {
-    console.log(
-        student.name,
-        "Marks:", student.marks,
-        "Grade:", studentGrade(student.marks)
-    );
-});
+// Grade of all std
+// students.forEach(function(student) {
+//     console.log(
+//         student.name,
+//         "Marks:", student.marks,
+//         "Grade:", studentGrade(student.marks)
+//     );
+// });
 
 
