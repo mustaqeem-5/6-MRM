@@ -127,3 +127,61 @@
 
 // console.log(updstd);
 
+
+
+// Mini Project
+
+// let students = [
+//     { name: "Ali", age: 18, marks: 85, city: "Mpk" },
+//     { name: "Ahmed", age: 19, marks: 42, city: "Hyd" },
+//     { name: "Sara", age: 18, marks: 92, city: "Mpk" },
+//     { name: "Ayesha", age: 20, marks: 67, city: "Karachi" },
+//     { name: "Usman", age: 19, marks: 35, city: "Nawabshah" }
+// ];
+
+// function gradeStudent(student) {
+//     if (student.marks >= 90) {
+//         return "A+";                
+//     }
+//     else if (student.marks >= 80) {
+//         return "A";                
+//     }
+//     else if (student.marks >= 70) {
+//         return "B";
+//     }
+//     else if (student.marks >= 60) {
+//         return "C";
+//     }
+//     else if (student.marks >= 50) {
+//         return "D";
+//     }
+//     else {
+//         return "Fail";
+//     }
+// }
+
+// console.log(gradeStudent(students[0]));
+
+
+
+// students[0].marks = 55;
+
+// console.log(students);
+
+// let std = students.filter((student) => student.marks <= 50);
+
+// console.log(std);
+
+// let avg = students.reduce((sum, student) => sum + student.marks, 0) / students.length;
+
+// console.log(avg);
+
+// let std = students.find((student) => student.name === "Ali");
+
+// console.log(std); 
+
+// let std = students.filter((student) => student.marks >= 50);
+
+// console.log(std);
+
+// console.log(students["name"]);
