@@ -4,6 +4,7 @@
 // let name = "Mustaqeem";
 
 // function greet() {
+//     let name = "malik"
 //     console.log(name);
 // }
 
@@ -22,7 +23,7 @@
 //     let city = "Karachi";
 // }
 
-// console.log(city); is code me error is liye aaraha h q ke let block scope h function scope nahi.
+// console.log(city);// is code me error is liye aaraha h q ke let block scope h function scope nahi.
 
 // Exercise 5
 // if (true) {
@@ -46,21 +47,21 @@
 // console.log(x);
 
 // Exercise 7
-// let name = "Mustaqeem";
+let name = "Mustaqeem";
 
-// function info() {
-//     let age = 20;
+function info() {
+    let age = 20;
 
-//     if (true) {
-//         let city = "Mpk";
+    if (true) {
+        let city = "Mpk";
         
-//         console.log(name);
-//         console.log(age);
-//         console.log(city);
-//     }
+        console.log(city);
+        console.log(age);
+        console.log(name);
+    }
 
-// }
-// info();
+}
+info();
 
 // Exersice 8
 // let name = "Ali";

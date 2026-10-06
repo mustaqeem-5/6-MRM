@@ -1,2 +1,5 @@
+) {
+//     let city = "Karachi";
+// }
 
-// console.log(city);
+// console.lo
