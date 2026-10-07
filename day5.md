@@ -46,7 +46,7 @@ I needed some extra practice to understand nested destructuring and destructurin
 I practiced different examples and exercises until I understood how destructuring works with objects, arrays, functions, and nested data.
 
 ## GitHub Proof
-
+https://github.com/mustaqeem-5/6-MRM
 
 ## What I Can Explain
 - What Destructuring is
