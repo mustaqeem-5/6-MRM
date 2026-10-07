@@ -58,7 +58,7 @@ I learned how JavaScript Modules allow me to divide code into multiple files and
 - How to correctly write module file paths
 
 ## GitHub Proof
-
+https://github.com/mustaqeem-5/6-MRM/tree/main/Day6
 
 ## Tomorrow’s First Task
 JavaScript DOM
