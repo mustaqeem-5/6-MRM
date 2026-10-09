@@ -1,4 +1,4 @@
-// Objects
+// Day 3 Objects.
 
 // 01 Simple obj
 // let std = {

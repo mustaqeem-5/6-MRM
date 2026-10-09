@@ -90,8 +90,7 @@ How I Solved Them
 I studied and practiced the Object and Object methods to solve these problems. For updating the obj, I used spread op. For nested obj, I used object in object.
 
 GitHub Commit
-
-
+https://github.com/mustaqeem-5/6-MRM/blob/main/day3.js
 
 What I Could Explain Without Notes
 
