@@ -23,7 +23,7 @@ Learn JavaScript DOM fundamentals and practice selecting, reading, and updating 
 - How to combine DOM manipulation, arrays, loops, and CSS classes in a small project.
 
 ## 4. GitHub Commit / Proof
-- 
+- https://github.com/mustaqeem-5/6-MRM/tree/main/week2/day%201
 
 
 ## 5. Tomorrow's Task
