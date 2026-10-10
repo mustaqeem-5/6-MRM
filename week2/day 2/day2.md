@@ -38,4 +38,5 @@ Learn JavaScript DOM Events and understand how to make webpages interactive usin
 - How to update webpage content dynamically using DOM methods.
 
 ## 5. GitHub Commit / Proof
+https://github.com/mustaqeem-5/6-MRM/tree/main/week2/day%202
 
